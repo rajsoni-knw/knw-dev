@@ -1,5 +1,0 @@
-apiCatalog:
-  - title: Knowable
-    disableAutoSidebar: true
-    versions:
-      - link: https://api.redocly.com/registry/assets/knowable-92u/main/latest?branch=main
