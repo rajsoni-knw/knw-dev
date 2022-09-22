@@ -3,7 +3,7 @@ training:
   - group: Knowabl Reference
     expanded: false
     pages:
-      - page: https://api.redocly.com/registry/assets/knowable-92u/main/latest?branch=main
+      - page: openapi/openapi.yaml
 
   - group: Admin
     expanded: true
