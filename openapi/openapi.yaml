@@ -39,6 +39,7 @@ paths:
           schema:
             type: string
           example: no-cache
+      operationId: bulkApi
       responses:
         '200':
           description: Successful response
@@ -71,6 +72,7 @@ paths:
           schema:
             type: string
           example: no-cache
+      operationId: reviewApi
       responses:
         '200':
           description: Successful response
